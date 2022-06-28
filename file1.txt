@@ -1,1 +1,8 @@
-HelloWorld
+#JAVA
+System.out.println("HelloWorld");
+
+#C++
+std::cout << "HelloWorld" << std::endl;
+
+#Python
+print("HelloWorld")
